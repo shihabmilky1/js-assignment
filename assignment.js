@@ -1,4 +1,5 @@
- // https://github.com/shihabmilky1/js-assignment-1
+ //https://github.com/shihabmilky1/js-assignment
+
 
  function kilometerToMeter(kilometer){
     var meter = kilometer * 1000;        
